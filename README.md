@@ -28,8 +28,10 @@ Org admins are users who have full control and access rights to all members, rep
 
 Org Admins have the following responsibilities:
 - Adding / removing members from the GitHub organization
-- Creating new project teams
-- Creating new project admin teams
+- Granting org admin access
+- Providing guidance to team admins on APT Org GitHub teams
+
+**\*\*While org admins have the privilege to create teams and repos, we recommend that team admins do these tasks. This ensures that org admins don't become the bottleneck for creation of repos, teams, adding / removing team members. This would quickly become an unscalable process and burden on the org admins.**
 
 ### User Type: Team Admin
 Team admins are users who are the technical and project leader(s) of their respective projects. A project is an area of research (e.g. LESensory) and may have many repositories associated with it.
