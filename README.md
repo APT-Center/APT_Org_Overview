@@ -6,7 +6,7 @@ Below is a description of the different types of users that we have within the A
 
 | User Type   | Description | 
 | ----------- | ----------- | 
-| Org Admins  | James, ?    |
+| Org Admins  | Jeremy, Rachel |
 | Team Admins | Project Manager (i.e. PI or Investigator), Lead Engineer |
 | Org Members | Permanent and semi-permanent users |
 | External collaborators | Temporary users |
